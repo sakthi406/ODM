@@ -1,0 +1,10 @@
+{
+  "name": "com.odm.sop-tools",
+  "version": "0.2.0",
+  "displayName": "ODM",
+  "description": "Jump straight to any SOP step in Play mode and fire saved zone QR scans, without walking the normal flow.",
+  "unity": "2022.3",
+  "author": {
+    "name": "ODM"
+  }
+}
